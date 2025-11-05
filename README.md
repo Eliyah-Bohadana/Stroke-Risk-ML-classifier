@@ -11,10 +11,10 @@ Machine Learning project that predicts stroke risk based on medical and lifestyl
    pip install -r requirements.txt
    
 2. **Explore the dataset**  
-- Open the notebook:  
-  ```
-  notebooks/01_exploration.ipynb
-  ```
-- Inspect data types  
-- Check for missing values  
-- Understand feature distributions  
+   - Open the notebook:  
+     ```
+     notebooks/01_exploration.ipynb
+     ```
+   - Inspect data types  
+   - Check for missing values  
+   - Understand feature distributions  
